@@ -184,16 +184,16 @@ body
     }
     .mainPage .headerBtns
     {
-        width: 390px;
+        width: 330px;
     }
     .mainPage .headerBtns .oturn
     {
-        left:195px;
+        left:165px;
         padding: 25px 60px;
     }
     .mainPage .headerBtns .showChange
     {
-        width: 210px;
+        width: 180px;
     }
     .winningPage
     {
@@ -203,5 +203,9 @@ body
     {
     font-size: 90px;
     color: rgb(136, 144, 64);
+    }
+    gameboard
+    {
+        margin: 2vh 2.5%;
     }
 }
