@@ -67,7 +67,7 @@ let winningCombinations=[
 
 let winningFunc = () =>
 {
-    for(let a = 0 ; a <= 8; a++)
+    for(let a = 0 ; a <= 7; a++)
        {
             let b = winningCombinations[a];
 
