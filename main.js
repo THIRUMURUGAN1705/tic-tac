@@ -42,7 +42,7 @@ box.forEach(items =>
             }
             else
             {
-                items.innerHTML=`<i class="fa fa-play"></i>`;
+                items.innerHTML=`<i class="fa fa-circle-o-notch"></i>`;
                 items.id="O";
                 items.style.pointerEvents="none";
                 showChange.style.marginLeft="0px";
