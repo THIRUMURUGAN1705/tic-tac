@@ -168,7 +168,7 @@ body
 
 .gameBoard .box i
 {
-    font-size: 130px;
+    font-size: 110px;
     color: rgb(136, 144, 64);
 }
 
@@ -198,5 +198,10 @@ body
     .winningPage
     {
         width: 90%;
+    }
+    .gameBoard .box i
+    {
+    font-size: 90px;
+    color: rgb(136, 144, 64);
     }
 }
